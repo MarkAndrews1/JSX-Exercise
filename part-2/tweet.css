@@ -1,0 +1,21 @@
+h3{
+    margin-bottom: 5px;
+}
+
+.tweet{
+    padding: 5px;
+    margin-right: 5%;
+    max-width: 15%;
+    display: inline-block;
+    border: 1px solid rgba(128, 128, 128, 0.438);
+    border-radius: 8px;
+}
+
+.tweet-header{
+    margin-right: 5%;
+    display: inline-block;
+}
+
+.tweet-story{
+    display: inline-block;
+}
